@@ -1,2 +1,2 @@
-# APP---Produto
+# APP - Produto
 Desenvolvido com Flask - Mongo
